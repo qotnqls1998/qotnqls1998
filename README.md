@@ -8,7 +8,6 @@
 - Email : qotnqls77@naver.com
 
 ### Skill Stack
------
 
 - Back-end:
 	<div align="center">
