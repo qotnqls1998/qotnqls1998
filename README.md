@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Welcome to SuBeen's GitHub! &fontSize=80" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20SuBeen's%20GitHub!&fontSize=60" />
+
+
 
 ### 안녕하세요! 꾸준히 성장하는 개발자 배수빈입니다
 ```
