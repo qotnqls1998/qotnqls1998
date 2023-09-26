@@ -34,16 +34,18 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
 
+- Tool
+ Jira, Git, Notion, Slack
 
 ### 💻 Projects
 ```
-- 게운해 GaeWoonHae | 모션인식 기반 운동 서비스 |
+- 게운해 GaeWoonHae | 모션인식 기반 운동 서비스 | v 
 
-- 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 |
+- 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 | v 
 
-- 라이브큐 LivQ | 화면공유를 통한 실시간 질의응답 서비스 |
+- 라이브큐 LivQ | 화면공유를 통한 실시간 질의응답 서비스 | v 
 
-- 맹모 MangMo | 거주지 반경 편의시설 조회 서비스 |
+- 맹모 MangMo | 거주지 반경 편의시설 조회 서비스 | v 
 
 ```
 
