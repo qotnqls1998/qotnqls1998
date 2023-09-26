@@ -1,16 +1,13 @@
-### Hi there 👋
+### 안녕하세요! 꾸준히 성장하는 개발자 배수빈입니다
+------------------
+- (현) SSAFY 9기 (23.1 ~ )
+- (전) 한동대학교 컴퓨터공학 (18.3 ~ 23.2)
 
-<!--
-**qotnqls1998/qotnqls1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact 
+-----------------
+- Email : qotnqls77@naver.com
 
-Here are some ideas to get you started:
+### Skil Stack
+----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
