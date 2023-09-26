@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Welcome to SuBeen's GitHub! &fontSize=80" />
+
 ### 안녕하세요! 꾸준히 성장하는 개발자 배수빈입니다
 ```
 - (현) SSAFY 9기 (23.1 ~ )
