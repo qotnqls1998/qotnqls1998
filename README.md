@@ -3,16 +3,16 @@
 
 
 
-### 안녕하세요! 꾸준히 성장하는 개발자 배수빈입니다
+### 🌊 안녕하세요! 꾸준히 성장하는 개발자 배수빈입니다
 ```
 - (현) SSAFY 9기 (23.1 ~ )
 - (전) 한동대학교 전산전자공학부 전산심화 (18.3 ~ 23.2)
 ```
-### Contact 
+### 🤝 Contact 
 ```
 - Email : qotnqls77@naver.com
 ```
-### Skill Stack
+### 🔨 Skill Stack
 
 - Back-end
 	<div>
@@ -35,7 +35,7 @@
 </div>
 
 
-### Projects
+### 💻 Projects
 ```
 - 게운해 GaeWoonHae | 모션인식 기반 운동 서비스 |
 
@@ -47,4 +47,8 @@
 
 ```
 
-
+### 📃 Certificate
+```
+- SQLD (23.7 취득)
+- 토익스피킹 IH (22.8 취득)
+```
