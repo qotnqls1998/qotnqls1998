@@ -41,7 +41,7 @@
 ```
 - 게운해 GaeWoonHae | 모션인식 기반 운동 서비스 | v 
 
-- 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 | v 
+- 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 | https://github.com/qotnqls1998/histudy
 
 - 라이브큐 LivQ | 화면공유를 통한 실시간 질의응답 서비스 | v 
 
