@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
 
-- Tool
+- Tool<br>
  Jira, Git, Notion, Slack
 
 ### 💻 Projects
