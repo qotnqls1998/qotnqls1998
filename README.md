@@ -41,7 +41,7 @@
 
 - 게운해 GaeWoonHae | 모션인식 기반 운동 서비스 | [https://github.com/qotnqls1998/Gaewoonhae](https://github.com/qotnqls1998/Gaewoonhae.git)
 
-- 파인하우스 FineHouse | 부동산등록 전월세 조회 서비스 | [https://github.com/qotnqls1998/FineHouse](https://github.com/qotnqls1998/FineHouse.git)
+- 파인하우스 FineHouse | 부동산등록 전월세 조회 서비스 | [https://github.com/SuInWoo/FineHouse](https://github.com/SuInWoo/FineHouse.git)
 
 - 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 | [https://github.com/qotnqls1998/histudy](https://github.com/qotnqls1998/histudy.git)
 
