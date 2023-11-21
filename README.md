@@ -39,6 +39,8 @@
 
 ### 💻 Projects
 
+- 씨-예스 C-YES | 함께 나누는 라이브 CS 퀴즈 | [https://github.com/qotnqls1998/cyes](https://github.com/qotnqls1998/cyes.git)
+
 - 게운해 GaeWoonHae | 모션인식 기반 운동 서비스 | [https://github.com/qotnqls1998/Gaewoonhae](https://github.com/qotnqls1998/Gaewoonhae.git)
 
 - 파인하우스 FineHouse | 부동산등록 전월세 조회 서비스 | [https://github.com/SuInWoo/FineHouse](https://github.com/SuInWoo/FineHouse.git)
@@ -47,7 +49,6 @@
 
 - 라이브큐 LivQ | 화면공유를 통한 실시간 질의응답 서비스 | v 
 
-- 맹모 MangMo | 거주지 반경 편의시설 조회 서비스 | v 
 
 
 
