@@ -47,7 +47,7 @@
 
 - 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 | [https://github.com/qotnqls1998/histudy](https://github.com/qotnqls1998/histudy.git)
 
-- 라이브큐 LivQ | 화면공유를 통한 실시간 질의응답 서비스 | v 
+- 라이브큐 LivQ | 화면공유를 통한 실시간 질의응답 서비스 | [홍보페이지](https://ryuha.notion.site/LightQ-63ba3eabf8ae4823ab2063522024a7e3)
 
 
 
