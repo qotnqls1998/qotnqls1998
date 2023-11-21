@@ -3,7 +3,7 @@
 
 
 
-### 🌊 안녕하세요! 꾸준히 성장하는 개발자 배수빈입니다
+### 🌊 Education
 ```
 - (현) SSAFY 9기 (23.1 ~ )
 - (전) 한동대학교 전산전자공학부 전산심화 (18.3 ~ 23.2)
@@ -16,7 +16,6 @@
 
 - Back-end
 	<div>
-	  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 	  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
