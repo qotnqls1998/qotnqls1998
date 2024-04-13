@@ -3,14 +3,7 @@
 
 
 
-### 🌊 Education
-```
-- SSAFY 9기 (23.1 ~ )
-- 한동대학교 전산전자공학부 전산심화 졸업 (18.3 ~ 23.2)
-```
-### 🤝 Contact 
-```
-- Email : qotnqls77@naver.com
+
 ```
 ### 🔨 Skill Stack
 
@@ -45,7 +38,14 @@
 - 히즈스터디 Histudy | HGU 교내 스터디 매칭 및 관리 서비스 | [https://github.com/qotnqls1998/histudy](https://github.com/qotnqls1998/histudy.git)
 
 
-
+### 🌊 Education
+```
+- SSAFY 9기 (23.1 ~ )
+- 한동대학교 전산전자공학부 전산심화 졸업 (18.3 ~ 23.2)
+```
+### 🤝 Contact 
+```
+- Email : qotnqls77@naver.com
 
 ### 📃 Certificate
 ```
