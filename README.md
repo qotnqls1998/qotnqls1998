@@ -1,10 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20SuBeen's%20GitHub!&fontSize=60" />
 
-
-
-
-```
 ### 🔨 Skill Stack
 
 - Back-end
@@ -46,6 +42,7 @@
 ### 🤝 Contact 
 ```
 - Email : qotnqls77@naver.com
+```
 
 ### 📃 Certificate
 ```
